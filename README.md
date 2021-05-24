@@ -14,9 +14,9 @@
 - ⚡ Fun fact: ...
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bassam-azizi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassam-azizi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
