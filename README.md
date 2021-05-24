@@ -4,21 +4,18 @@
 **bassam azizi** is _Front-End Web Developer_ ✨  Specialized in React.js, Gatsby.js and Next.js With a background in UX/UI Design, JAMstack oriented.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Radio Web platform for an non profit organization.
+- 🌱 I’m currently learning Appolo server.
+- 👯 I’m looking to collaborate on JAMstack projects.
+- 🤔 I’m looking for help with Enhancing my Skills.
+- 💬 Ask me about React, javaScript and Front-end web development in general, and let us have a great discussion.
+- 📫 How to reach me: 101010bassam@gmail.com | 00216 51 110 993
+- ⚡ Fun fact: TWO-YEARS could be a lot for a website, the ways in which websites are being designed and developed need to change at the same rate as browser and devices changes.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bassam-azizi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassam-azizi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bassam-azizi.r_k)
 
