@@ -20,7 +20,7 @@
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=bassam-azizi.r_k)
 
 
 
