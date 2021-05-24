@@ -20,7 +20,6 @@
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=bassam-azizi)](https://github.com/thepracticaldev/dev.to)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=bassam-azizi&repo=r_k)](https://github.com/thepracticaldev/dev.to)
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
