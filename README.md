@@ -18,8 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassam-azizi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=bassam-azizi)](https://github.com/thepracticaldev/dev.to)
-
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
