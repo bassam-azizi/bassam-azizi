@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Enhancing my Skills.
 - 💬 Ask me about React, javaScript and Front-end web development in general, and let us have a great discussion.
 - 📫 How to reach me: 101010bassam@gmail.com | 00216 51 110 993
-- ⚡ Fun fact: TWO-YEARS could be a lot for a website, the ways in which websites are being designed and developed need to change at the same rate as browser and devices changes.
+- ⚡ Fun fact: TWO-YEARS could be a lot for a website, the ways in which websites are being designed and developed need to change at the same rate as browsers and devices are changing.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bassam-azizi)
