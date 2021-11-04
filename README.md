@@ -13,11 +13,7 @@
 - ⚡ Fun fact: TWO-YEARS could be a lot for a website, the ways in which websites are being designed and developed need to change at the same rate as browsers and devices are changing.
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bassam-azizi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassam-azizi)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bassam-azizi.r_k)
 
 
 
