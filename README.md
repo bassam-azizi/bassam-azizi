@@ -4,7 +4,7 @@
 **bassam azizi** is _Front-End Web Developer_ ✨  Specialized in React.js, Gatsby.js and Next.js With a background in UX/UI Design, JAMstack oriented.
 
 
-- 🔭 I’m currently working on an Ecomerce Web platform (crayz new tricks!).
+- 🔭 I’m currently working on an Ecomerce Web platform.
 - 🌱 Learning is one of my vital daily habit.
 - 👯 I’m looking to collaborate on for a better digital experience.
 - 🤔 I’m looking for big step toward global positive impact.
